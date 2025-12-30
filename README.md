@@ -26,7 +26,7 @@ Lilly V2.5 represents a significant leap from previous iterations, focusing on r
 
 ## Functions:
 ### - Voice 
-    - TTS For Speech 
+- TTS For Speech 
 - Discord 
     - Chat 
     - Voice Call 
