@@ -24,23 +24,6 @@ Lilly V2.5 represents a significant leap from previous iterations, focusing on r
 * **Integration:** Discord currently
 * **Avatar:** W.I.P
 
-## Functions:
-### Voice 
-- TTS For Speech 
-### Discord 
-- Chat 
-- Voice Call 
-- DMs 
-### Browser 
-- Web Search 
-### Avatar 
-- Digital Body 
-### Game 
-- Gameplay Integration 
-### Twitch & YouTube 
-- Read & Interact With Chat
-- Make Polls
-
 ## 📂 Project Structure
 
 The system is architected to separate the core AI logic from the persistent data and the external communication layers.
