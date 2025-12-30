@@ -31,13 +31,13 @@ Lilly V2.5 represents a significant leap from previous iterations, focusing on r
 - Chat 
 - Voice Call 
 - DMs 
-### - Browser 
+### Browser 
 - Web Search 
-### - Avatar 
+### Avatar 
 - Digital Body 
-### - Game 
+### Game 
 - Gameplay Integration 
-### - Twitch & YouTube 
+### Twitch & YouTube 
 - Read & Interact With Chat 
 
 ## 📂 Project Structure
