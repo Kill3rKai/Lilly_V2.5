@@ -24,6 +24,8 @@ Lilly V2.5 represents a significant leap from previous iterations, focusing on r
 * **Integration:** Discord currently
 * **Avatar:** W.I.P
 
+## Test
+
 ## 📂 Project Structure
 
 The system is architected to separate the core AI logic from the persistent data and the external communication layers.
