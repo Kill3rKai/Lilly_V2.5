@@ -1,4 +1,4 @@
-# Lilly AI | Project VSM V2.5
+# Lilly AI | Project VSM V2.5 Development Information Document
 
 [![Project Status: Active](https://img.shields.io/badge/Project%20Status-Active-brightgreen)](https://github.com/your-username/your-repo)
 [![Version](https://img.shields.io/badge/Version-2.5-blue)](https://github.com/your-username/your-repo)
