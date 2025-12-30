@@ -38,7 +38,8 @@ Lilly V2.5 represents a significant leap from previous iterations, focusing on r
 ### Game 
 - Gameplay Integration 
 ### Twitch & YouTube 
-- Read & Interact With Chat 
+- Read & Interact With Chat
+- Make Polls
 
 ## 📂 Project Structure
 
