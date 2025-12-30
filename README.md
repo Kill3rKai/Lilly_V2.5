@@ -31,20 +31,20 @@ The system is architected to separate the core AI logic from the persistent data
 
 ```text
 AI_SYSTEM V2.5/
-├── main.py                # Primary entry point for the AI system
-├── discord_bot.py         # Discord API integration and event handling
-├── requirements.txt       # Project dependencies and environment specs
+├── main.py                # Terminal Chat System
+├── discord_bot.py         # Discord API Integration & Event Handling
+├── requirements.txt       # Project Dependencies & Environment Specs
 ├── brain/                 # Core Intelligence & Logic
-│   ├── controller.py      # System orchestration and logic flow
-│   ├── filters.py         # Content moderation and safety logic
-│   ├── generator.py       # LLM inference and response construction
-│   ├── intent.py          # User intent analysis and classification
-│   ├── longterm.py        # Logic for deep context retrieval
-│   ├── longterm_memory.json # Persistent historical data
-│   ├── memory.py          # Short-term/Working memory management
-│   ├── persona.py         # Character trait application logic
-│   ├── scorer.py          # Response evaluation and ranking
-│   ├── session.json       # Current active session state
-│   └── tools.py           # Utility functions and helper scripts
+│   ├── controller.py      # System Orchestration & Logic Flow
+│   ├── filters.py         # Content Moderation & Safety Logic
+│   ├── generator.py       # LLM Inference & Response Construction
+│   ├── intent.py          # User Intent Analysis & Classification
+│   ├── longterm.py        # Logic For Deep Context Retrieval
+│   ├── longterm_memory.json # Persistent Historical Data
+│   ├── memory.py          # Short-term/Working Memory Management
+│   ├── persona.py         # Character Trait Application Logic
+│   ├── scorer.py          # Response Evaluation & Ranking
+│   ├── session.json       # Current Active Session State
+│   └── tools.py           # Utility Functions & Helper Scripts
 └── data/                  # Static Assets & Configuration
-    └── persona.txt        # Raw character data and system prompting
+    └── persona.txt        # Raw Character Data & System Prompting
