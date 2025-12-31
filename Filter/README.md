@@ -4,7 +4,7 @@
 
 ---
 
-## New Features (v2.5.0)
+## New Features (v2.5.1)
 
 ### Filter
 - Implements a structured filter to block inappropriate, unsafe, or policy-violating content
@@ -15,7 +15,7 @@
 
 ---
 
-## Version 2.5 Update — 2.5.0
+## Version 2.5 Update — 2.5.1
 
 ### Added: Filter Mechanism
 This update adds a multi-layered filter system that:
@@ -27,7 +27,7 @@ This update adds a multi-layered filter system that:
 
 ## Patch Notes
 
-### v2.5.0 — Filter System
+### v2.5.1 — Filter System
 
 #### Features
 - AI now rejects unsafe content while providing human-like feedback messages
