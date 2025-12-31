@@ -4,7 +4,7 @@
 
 ---
 
-## New Features (v2.5.18)
+## New Features (v2.5.8)
 
 ### Response Intelligence Enhancements
 - Avoids responding to every message, reducing chat clutter
@@ -14,7 +14,7 @@
 
 ---
 
-## Version 2.5 Update — 2.5.18
+## Version 2.5 Update — 2.5.8
 
 ### Added: Response Intelligence
 This update introduces improved response logic, allowing the AI to interact more intelligently within active conversations.
@@ -23,7 +23,7 @@ This update introduces improved response logic, allowing the AI to interact more
 
 ## Patch Notes
 
-### v2.5 Bug Fixes — 2.5.18
+### v2.5 Bug Fixes — 2.5.8
 
 #### Response Intelligence
 - AI now speaks only in appropriate, active channels
