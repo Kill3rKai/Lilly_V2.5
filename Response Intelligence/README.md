@@ -1,5 +1,5 @@
 # Response Inteligence
-## **Goal:** To Make The AI's Response Handling Neater.
+**Goal:** To Make The AI's Response Handling Neater.
 
 # V2.5 Update 2.5.18
 ## Added Response Intelligence
