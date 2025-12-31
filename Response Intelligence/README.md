@@ -1,9 +1,6 @@
 # Response Inteligence
 ## **Goal:** To Make The AI's Response Handling Neater.
 
-- [Update](line-7)
-- [Patch Notes](BugFix-2.5.18.md)
-
 # V2.5 Update 2.5.18
 ## Added Response Intelligence
 - Does Not Respond To Every Message Clogging Chat
