@@ -1,24 +1,32 @@
-# Response Inteligence
-**Goal:** To Make The AI's Response Handling Neater.
+# Response Intelligence
 
-# Added Functions Of This Update:
-- Does Not Respond To Every Message Clogging Chat
-- Responds When Spoken To
-- Jumps Into Ongoing Conversations
-- Initiates Conversations On Its Own
+**Objective:** Improve the AI’s response handling to create cleaner, more natural conversations.
 
-# V2.5 Update 2.5.18
-## Added Response Intelligence
-- Does Not Respond To Every Message Clogging Chat
-- Responds When Spoken To
-- Jumps Into Ongoing Conversations
-- Initiates Conversations On Its Own
+---
 
-**Adding Response Intelligence To The AI System**
+## New Features (v2.5.18)
 
-# Patch Notes
-## V2.5 BugFixes 2.5.18
-### Response Intelligence
-  - AI Speaks In Active Channels
+### Response Intelligence Enhancements
+- Avoids responding to every message, reducing chat clutter
+- Responds only when directly addressed
+- Detects and participates in ongoing conversations
+- Can initiate conversations when appropriate
 
-**Before The AI Could Speak In All Channels It Had Access To. (Admin Chats; Logging Channels), This Patch Fixed This**
+---
+
+## Version 2.5 Update — 2.5.18
+
+### Added: Response Intelligence
+This update introduces improved response logic, allowing the AI to interact more intelligently within active conversations.
+
+---
+
+## Patch Notes
+
+### v2.5 Bug Fixes — 2.5.18
+
+#### Response Intelligence
+- AI now speaks only in appropriate, active channels
+
+**Previously, the AI could respond in all accessible channels (e.g., admin or logging channels).  
+This update restricts responses to intended conversation channels.**
