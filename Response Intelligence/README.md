@@ -1,4 +1,4 @@
 # Documentation
 
-- [File 1](Update-2.5.18.md)
-- [File 2](BugFix-2.5.18.md)
+- [Update](Update-2.5.18.md)
+- [Patch Notes](BugFix-2.5.18.md)
