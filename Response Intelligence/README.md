@@ -1,7 +1,7 @@
 # Response Inteligence
 ## **Goal:** To Make The AI's Response Handling Neater.
 
-- [Update](Update-2.5.18.md)
+- [Update](line-7)
 - [Patch Notes](BugFix-2.5.18.md)
 
 # V2.5 Update 2.5.18
