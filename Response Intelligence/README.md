@@ -4,7 +4,6 @@
 - [Update](Update-2.5.18.md)
 - [Patch Notes](BugFix-2.5.18.md)
 
-# Update
 # V2.5 Update 2.5.18
 ## Added Response Intelligence
 - Does Not Respond To Every Message Clogging Chat
