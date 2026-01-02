@@ -23,27 +23,3 @@ Lilly V2.5 represents a significant leap from previous iterations, focusing on r
 * **Voice:** W.I.P
 * **Integration:** Discord currently
 * **Avatar:** W.I.P
-
-## 📂 Project Structure
-
-The system is architected to separate the core AI logic from the persistent data and the external communication layers.
-
-```text
-AI_SYSTEM V2.5/
-├── main.py                # Terminal Chat System
-├── discord_bot.py         # Discord API Integration & Event Handling
-├── requirements.txt       # Project Dependencies & Environment Specs
-├── brain/                 # Core Intelligence & Logic
-│   ├── controller.py      # System Orchestration & Logic Flow
-│   ├── filters.py         # Content Moderation & Safety Logic
-│   ├── generator.py       # LLM Inference & Response Construction
-│   ├── intent.py          # User Intent Analysis & Classification
-│   ├── longterm.py        # Logic For Deep Context Retrieval
-│   ├── longterm_memory.json # Persistent Historical Data
-│   ├── memory.py          # Short-term/Working Memory Management
-│   ├── persona.py         # Character Trait Application Logic
-│   ├── scorer.py          # Response Evaluation & Ranking
-│   ├── session.json       # Current Active Session State
-│   └── tools.py           # Utility Functions & Helper Scripts
-└── data/                  # Static Assets & Configuration
-    └── persona.txt        # Raw Character Data & System Prompting
