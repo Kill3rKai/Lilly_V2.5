@@ -7,7 +7,7 @@
 ## New Features (v2.5.1)
 
 ### Filter
-- Implements a structured filter to block inappropriate, unsafe, or policy-violating content
+- Implements a structured filter to block inappropriate or unsafe content
 - Provides context-aware negative feedback messages when blocked
 - Normalizes user input for consistent filtering across different text formats
 - Blocks attempts to bypass the filter using common “tricks” or justifications
