@@ -6,7 +6,7 @@
 Lilly AI **(Lilly AI Self Named)** is a state-of-the-art virtual content creator developed for the **VSM** group by member Kill3rKai. Lilly V2.5 is designed to function as an autonomous AI VTuber capable of real-time audience interaction, personality-driven gaming, and dynamic live-stream content.
 
 ## 🌟 Overview
-Lilly V2.5 represents a significant leap from previous iterations, focusing on reduced latency, more natural speech patterns, and a complex, stronger, filter system. Unlike standard chatbots, Lilly is optimized for the high-energy environment of live streaming.
+Lilly V2.5 represents a significant leap from previous iterations, focusing on reduced latency, more natural speech patterns, and a complex, stronger, filter system. Unlike standard chatbots, Lilly is optimized for the high-energy environment of gaming.
 
 ## 🚀 Key Features
 - **Personality Engine:** A custom Large Language Model (LLM) fine-tuned for the unique "Lilly" persona—balancing wit, curiosity, and VSM group inside jokes.
